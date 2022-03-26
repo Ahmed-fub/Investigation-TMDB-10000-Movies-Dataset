@@ -1,7 +1,8 @@
 # Investigation-TMDB-10000-Movies-Dataset
 This project was a part of the advanced Data analysis (Nanodegree) course on the Udacity platform. The Movies Databas (TMDb) is database for about 10,000 movies with different types of movies from 1960 until 2015. The data frame consists of actors to movies, type of movie, director, budgets, revenue, year of release of the movie, and other information related to movies. I investigated the data to answer some questions related to revenue and budgets and genres. 
 
-## Data Analysis for The Movies Databas (TMDb) and answer important questions related to budgets and revenue
+## Project 
+Data Analysis for The Movies Databas (TMDb) and answer important questions related to budgets and revenue
 
 ## Questions 
 1. In which year there are the highest numbers of movies?
